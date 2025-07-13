@@ -2,6 +2,7 @@
 
 def my_square(x):
     """Takes and value and returns the square of a number
+       Added more documentation about ++ operator
     """
     return(x ** 2)
 
